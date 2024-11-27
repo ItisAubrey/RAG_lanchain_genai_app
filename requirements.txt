@@ -1,0 +1,9 @@
+groq
+langchain-groq
+streamlit
+langchain_community
+langchain_core
+python-dotenv
+pypdf
+langchain-ollama
+faiss-cpu
